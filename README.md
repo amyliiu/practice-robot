@@ -1,2 +1,2 @@
 # practice-robot
-Programmed practice robot for 1504 
+practice robot framework for 2021 season
